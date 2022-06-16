@@ -1,0 +1,9 @@
+.buycard{
+-webkit-border-radius: 22px;
+border-radius: 22px;
+background: #050505;
+-webkit-box-shadow: 5px 5px 23px #2a2525, -5px -5px 23px  #2a2525;
+box-shadow: 5px 5px 23px  #2a2525, -5px -5px 23px  #2a2525;
+
+    
+}

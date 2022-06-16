@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  height: 80vh;
+  background-color: rgb(221, 221, 221);
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 70px;
+}
+h2 {
+  padding-bottom: 20px;
+  color: rgb(13, 48, 87);
+}
+
+.h_5 {
+  color: rgb(128, 35, 35);
+  padding-bottom: 20px;
+}
+
+.image > img {
+  height: 85%;
+  width: auto;
+  border-radius: 50px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+}
+.form input {
+  display: block;
+}
+
+.form button {
+  display: block;
+}
+.text,
+ul {
+  color: rgb(117, 117, 117);
+}
+
+.btn {
+  width: 180px;
+  height: 60px;
+  border-radius: 15px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+[alt="google"] {
+  margin-left: 70px;
+}

@@ -1,0 +1,51 @@
+.marg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.heading
+{
+    margin-top: 50px;
+    color: #B4A5A5;
+}
+
+
+
+
+
+
+.signlog:hover{
+    color: rgb(108, 106, 106);
+    
+}
+
+.signlog
+{
+    text-decoration: none;
+    color: green;  
+}
+.error{
+    color: red;
+    font-style: italic;
+}
+.heroFrom{
+    background-color: #541212;
+    color: rgb(27, 43, 57);
+    height: 90vh;
+    width: 99.8vw;
+    background-size: cover;
+    background-attachment: fixed;
+   
+    margin-top: 15px;
+    background-image: linear-gradient(
+        rgba(99, 99, 99, 0.85),
+        rgba(217, 222, 227, 0.85)
+        
+      ),
+      url(./signupbg.jpg);
+    /* text-align: center; */
+}

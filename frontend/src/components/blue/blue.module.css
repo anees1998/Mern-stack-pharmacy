@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  text-align: center;
+  height: 30vh;
+  background-color: rgb(13, 50, 94);
+  display: flex;
+  justify-content: space-evenly;
+  color: #fff;
+  padding-top: 20px;
+  /* margin-top: 60px; */
+}
+
+.main > div > i {
+  color: gray;
+  font-size: 40px;
+  font-weight: 600;
+  
+}
+
+.main > div > h5 {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

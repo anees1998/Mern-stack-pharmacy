@@ -1,0 +1,50 @@
+.bus_comp_size{
+    height: 50px;
+    width: 150px;
+}
+.price-mob{
+    height: 30px;
+    width: 30px;
+    color: #f6951c;
+}
+.price_size{
+    color: #f6951c;
+    font-size: 2.1rem;
+    font-weight: bolder;
+}
+.perce_size{
+    color: #f6951c;
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+.orange_color{
+    color: #f6951c;
+}
+.text-dark{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+.Exective_color{
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(23, 23, 109);
+}
+.blink_text {
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+   }
+   
+   @keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+   }
+.blue_btn_backgroung{
+    background-color:rgb(23, 23, 109) ;
+    height: 3.5rem;
+    width: 9rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}

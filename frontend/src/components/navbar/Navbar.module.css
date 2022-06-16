@@ -1,0 +1,41 @@
+.logo {
+  width: 200px;
+  /* height: 50px; */
+  margin-left: 80px;
+  margin-top: -15px;
+  /* border-radius: 50px; */
+}
+.main{
+  height: 70px !important;
+  width: 100%!important;
+}
+.navigation {
+  margin-left: 320px;
+}
+
+.nav_assistence {
+  padding-right: 10px;
+  margin-top: 0px;
+  opacity: 0.6;
+  color: rgb(42, 42, 207);
+}
+
+.nav_assistence p {
+  /* position: absolute; */
+  /* top: 15px;
+  right: 20px; */
+  font-size: 12px;
+}
+.dark {
+  color: aqua;
+}
+
+.navlink:hover{
+    text-decoration: none;
+    color: rgb(155, 158, 253) !important;  
+}
+
+.navlink2:hover{
+  text-decoration: none;
+  color: rgb(209, 205, 205) !important;  
+}

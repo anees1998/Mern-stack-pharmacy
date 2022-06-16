@@ -1,0 +1,48 @@
+.main {
+  padding: 50px 0;
+}
+
+.main h2,
+.main h4 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.main h2 {
+  color: rgb(20, 22, 44);
+}
+.main h4 {
+  margin: 15px 0 33px 0;
+  color: rgb(85, 87, 109);
+}
+.columns {
+  display: flex;
+  justify-content: space-evenly;
+  width: 90%;
+  margin: 0px auto;
+}
+
+.column1,
+.column2 {
+  width: 43%;
+}
+
+.element {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(218, 215, 215, 0.74);
+  padding-bottom: 22px;
+  margin-top: 18px;
+}
+
+.bus {
+  width: 80%;
+  height: 43px;
+  margin: 0px auto;
+  text-align: center;
+  background-color: rgb(44, 100, 185);
+  padding: 5px;
+  color: white;
+  font-size: 22px;
+  margin-bottom: 50px;
+}

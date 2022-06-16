@@ -1,0 +1,15 @@
+
+.card-img-top{
+    width: 30px;
+    height: 130px;
+    border-radius:  42px 42px 0px 0px ;
+}
+.cbody {
+    background-color: #B4846C;
+    border-radius: 0px 0px 22px 22px ;
+    color: white;
+}
+.card-content{
+    border-radius: 22px;
+    background-color: #B4846C;
+}

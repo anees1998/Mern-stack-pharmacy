@@ -1,0 +1,23 @@
+.second_nav {
+    width: 100%;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+.breadcrumb {
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.75rem 1rem;
+    list-style: none;
+    border-radius: 0.25rem;
+}
+.background-blue{
+    background-color: #023669;
+    color: #f6951c;
+}
+.orange{
+    color: #f6951c;
+    text-decoration: none;
+}

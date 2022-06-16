@@ -1,0 +1,8 @@
+.notfound{
+    
+    background-image: url(./notfoundimg.png);
+    /* background-size: 80vh;   */
+    height: 80vh;
+    width: 100vw;
+}
+

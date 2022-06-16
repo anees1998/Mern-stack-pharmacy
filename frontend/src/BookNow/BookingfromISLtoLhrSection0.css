@@ -1,0 +1,31 @@
+
+.custom-shadow {
+    box-shadow: 2px 2px 8px -3px rgba(0,0,0,.4),-2px -2px 8px -3px rgba(0,0,0,.4)!important;
+    border-radius: 8px!important;
+    
+   
+    
+}
+.complete-width{
+    width: 100%;
+    
+}
+.blue_color{
+    color: #0071cc;
+}
+.text-1 {
+    font-size: 12px!important;
+    font-size: .75rem!important;
+}
+.border-primary {
+    border-color: #17a2b8!important;
+}
+.use_text_aligned{
+    text-align: center;
+    
+}
+
+
+
+
+
